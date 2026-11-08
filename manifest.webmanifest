@@ -1,0 +1,15 @@
+{
+  "name": "旅行英语",
+  "short_name": "旅行英语",
+  "description": "出国旅游英语听力、词汇、常用句训练",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#dfeaf3",
+  "theme_color": "#dfeaf3",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
